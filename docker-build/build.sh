@@ -1,0 +1,1 @@
+docker build -t pp_invoke_ai --progress=plain -f Dockerfile ..
